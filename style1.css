@@ -1,0 +1,41 @@
+form{
+    padding:30px;
+}
+input{
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}
+fieldset{
+    padding: 30px;
+    width: 75%;
+    margin:35px;
+}
+form{
+    align-items: center;
+}
+h1{
+    font-size: 100px;
+    margin: 40px;
+}
+span{
+    color: wheat;
+    font-size: 110px;
+}
+header{
+    padding: 10px;
+}
+nav,a{
+    color:black;
+    padding: 30px;
+    text-decoration: none;
+    font-family: Georgia;
+    text-align: center;
+}
+body{
+    background-image: url("airline-travel-background-vector-44892802.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+    height:100%;
+}

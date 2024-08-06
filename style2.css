@@ -1,0 +1,38 @@
+body{
+    background-image: url("airline-travel-background-vector-44892802.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+    height:100%;
+}
+.board{
+    
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    display: flex;
+    gap: 100px;
+    padding: 30px;
+    border-radius: 50px 20px;
+}
+.set{
+     background-color: rgb(29, 29, 122);
+     padding: 30px;
+}
+.area{
+    display: flex;
+    gap: 50px;
+}
+.logo{
+    width: 50%;
+}
+header{
+    padding: 10px;
+}
+nav,a{
+    color:black;
+    padding: 30px;
+    text-decoration: none;
+    font-family: Georgia;
+    text-align: center;
+}
